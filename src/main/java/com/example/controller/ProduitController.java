@@ -101,27 +101,3 @@ public class ProduitController {
 		return "produits"; 
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -12,11 +12,17 @@
            http://www.springframework.org/schema/context/spring-context-2.5.xsd">
            
        <bean id="objDAO" class="com.example.dao.ProduitImpl" init-method="init"/> 
-	 
-	    
 	   <bean id="objServices" class="com.example.services.ProduitImplMetier"> 
 		   <property name="dao" ref="objDAO"/> 
 	   </bean> 
+	   
+	   <bean id="userDAO" class="com.example.dao.UserDAOImpl">
+		    <property name="sessionFactory" ref="sessionFactory"/>
+	   </bean>
+	   <bean id="userService" class="service.UserServiceImpl">
+		    <property name="userDAO" ref="userDAO"/>
+	   </bean>
+	   
 </beans> 
            
            
