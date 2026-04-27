@@ -11,19 +11,20 @@ import com.example.model.User;
 import com.example.services.UserMetier;
 
 @Controller
+@RequestMapping("/auth")
 public class AuthController {
-	
-	@Autowired
-    UserMetier services;
-	
-	
-	@RequestMapping(value="/login", method=RequestMethod.GET)
+
+    @Autowired
+    private UserMetier services;
+
+    
+    @GetMapping("/login")
     public String loginPage() {
-        return "login"; // login.jsp
+        return "login"; 
     }
 
     
-    @RequestMapping(value="/login", method=RequestMethod.POST)
+    @PostMapping("/login")
     public String login(
             @RequestParam String username,
             @RequestParam String password,
@@ -37,18 +38,16 @@ public class AuthController {
             session.setAttribute("user", user.getUsername());
             session.setAttribute("role", user.getRole());
 
-            return "redirect:/index";
-
+            return "redirect:/produits/index";
         } else {
             model.addAttribute("error", "Invalid credentials");
             return "login";
         }
     }
 
-
-    @RequestMapping("/logout")
+    @GetMapping("/logout")
     public String logout(HttpSession session) {
         session.invalidate();
-        return "redirect:/login";
+        return "redirect:/auth/login";
     }
 }
