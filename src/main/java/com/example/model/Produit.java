@@ -1,6 +1,10 @@
 package com.example.model;
 
-import javax.persistence.*;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
 @Table(name = "produit")
@@ -34,5 +38,4 @@ public class Produit{
 	
 	public Double getPrix() { return prix; } 
 	public void setPrix(Double prix) { this.prix = prix; }
-	
 }

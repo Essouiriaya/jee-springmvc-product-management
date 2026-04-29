@@ -10,22 +10,19 @@
   
    <dependencies>
 	
-	    <!-- Spring MVC -->
 	    <dependency>
 	        <groupId>org.springframework</groupId>
 	        <artifactId>spring-webmvc</artifactId>
 	        <version>5.3.30</version>
 	    </dependency>
 	
-	    <!-- Servlet API -->
 	    <dependency>
 	        <groupId>javax.servlet</groupId>
 	        <artifactId>javax.servlet-api</artifactId>
 	        <version>4.0.1</version>
 	        <scope>provided</scope>
 	    </dependency>
-	
-	    <!-- JSP -->
+
 	    <dependency>
 	        <groupId>javax.servlet.jsp</groupId>
 	        <artifactId>javax.servlet.jsp-api</artifactId>
@@ -33,7 +30,6 @@
 	        <scope>provided</scope>
 	    </dependency>
 	    
-	    <!-- JSTL --> 
         <dependency> 
             <groupId>jstl</groupId> 
             <artifactId>jstl</artifactId> 

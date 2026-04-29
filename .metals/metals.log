@@ -1,0 +1,387 @@
+2026.04.29 21:59:46 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\hp\eclipseJEE\springmvc-demo' for client Visual Studio Code 1.118.0.
+2026.04.29 21:59:46 INFO  Memory monitor started
+2026.04.29 21:59:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.29 21:59:49 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+avr. 29, 2026 9:59:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2
+2026.04.29 21:59:51 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.29 21:59:51 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+avr. 29, 2026 9:59:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:02:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+avr. 29, 2026 10:02:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:02:26 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.29 22:02:26 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java
+2026.04.29 22:02:26 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.29 22:02:26 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:28 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:28 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:29 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java
+2026.04.29 22:02:29 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+avr. 29, 2026 10:02:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 22
+2026.04.29 22:02:29 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+avr. 29, 2026 10:02:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 23
+2026.04.29 22:02:29 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+avr. 29, 2026 10:02:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 29, 2026 10:02:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 26
+avr. 29, 2026 10:02:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:02:29 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:29 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:30 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:30 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+avr. 29, 2026 10:02:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:02:51 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java
+2026.04.29 22:02:51 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:51 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:02:51 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+avr. 29, 2026 10:02:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:02:52 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.29 22:02:52 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:02:52 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:02:52 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:02:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 29, 2026 10:02:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:02:53 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:02:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 49
+2026.04.29 22:02:53 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:02:53 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:02:55 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:02:55 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:02:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:02:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:00 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:03:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:03:13 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java
+2026.04.29 22:03:13 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:13 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:03:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 61
+2026.04.29 22:03:13 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:03:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:03:13 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:03:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 65
+2026.04.29 22:03:14 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:14 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:15 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:15 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:15 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:18 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:21 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:21 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:21 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:21 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:28 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:28 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:28 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:28 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:31 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:03:44 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:03:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:04:27 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:27 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:27 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:27 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:04:28 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+avr. 29, 2026 10:04:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:04:29 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:30 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:30 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java
+2026.04.29 22:04:30 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:30 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:30 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+avr. 29, 2026 10:04:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:04:31 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+avr. 29, 2026 10:04:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:04:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:35 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:37 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:37 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:38 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:39 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:39 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:39 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:40 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:41 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:41 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java
+2026.04.29 22:04:41 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:41 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:43 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:44 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:44 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:47 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:04:48 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+avr. 29, 2026 10:04:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:09:38 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:09:49 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:49 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:49 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:49 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+avr. 29, 2026 10:09:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:09:49 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:49 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:50 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:09:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 162
+2026.04.29 22:09:50 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:09:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 29, 2026 10:09:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:09:52 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:53 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:53 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java
+2026.04.29 22:09:53 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:53 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:54 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:09:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 29, 2026 10:09:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:09:54 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:54 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:56 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:56 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:09:58 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:09:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:10:23 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java
+2026.04.29 22:10:23 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:23 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:23 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:10:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:10:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.29 22:10:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:26 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:10:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 29, 2026 10:10:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:10:27 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:27 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:29 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:29 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:31 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:38 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:10:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:10:40 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java
+2026.04.29 22:10:40 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:40 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:10:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:10:40 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:45 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:10:51 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:10:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:13:27 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java
+2026.04.29 22:13:27 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:13:27 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:13:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:22:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.29 22:22:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\Produit.java. Using fallback presentation compiler.
+2026.04.29 22:22:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitMetier.java. Using fallback presentation compiler.
+2026.04.29 22:22:35 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\ProduitImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:22:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:22:41 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:41 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:41 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+avr. 29, 2026 10:22:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:22:41 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:43 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:43 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:43 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:45 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:45 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:45 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:45 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:46 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:46 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:46 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:46 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java
+2026.04.29 22:22:46 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:46 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:48 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:48 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:48 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:48 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:48 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:49 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:50 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:50 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:50 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:51 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java
+2026.04.29 22:22:51 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:53 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:53 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:53 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:54 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:54 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java
+2026.04.29 22:22:54 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:58 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:58 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:22:58 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+avr. 29, 2026 10:22:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 299
+2026.04.29 22:22:59 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java
+2026.04.29 22:22:59 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:00 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:00 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:02 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:02 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:04 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:04 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:04 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:04 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:05 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java
+2026.04.29 22:23:05 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:07 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:07 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:07 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:07 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:08 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java
+2026.04.29 22:23:08 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:09 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:09 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:12 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:12 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:23:19 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+avr. 29, 2026 10:23:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:24:18 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:18 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:18 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:18 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+2026.04.29 22:24:18 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\ProduitController.java. Using fallback presentation compiler.
+avr. 29, 2026 10:24:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:24:21 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:21 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:21 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:22 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java
+2026.04.29 22:24:22 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:22 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:22 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:22 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:24:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 29, 2026 10:24:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:24:22 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:24:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 356
+2026.04.29 22:24:23 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:23 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:23 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:24 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:24 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:24:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:24:26 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+2026.04.29 22:24:54 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:55 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:54 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:54 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAOImpl.java. Using fallback presentation compiler.
+avr. 29, 2026 10:24:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:24:56 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:56 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:56 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+avr. 29, 2026 10:24:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 29, 2026 10:24:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:24:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:58 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:58 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:24:58 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:25:00 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:25:00 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:25:00 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:25:00 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+2026.04.29 22:25:05 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+avr. 29, 2026 10:25:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:25:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:32 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\model\User.java. Using fallback presentation compiler.
+avr. 29, 2026 10:25:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:25:33 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:33 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:34 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:35 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:25:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 29, 2026 10:25:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:25:36 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:36 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:36 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:25:39 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:25:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:25:53 INFO  Shutting down server
+2026.04.29 22:25:53 INFO  Memory monitor stopped
+2026.04.29 22:25:53 INFO  shutting down Metals
+2026.04.29 22:25:53 INFO  Exiting server
+2026.04.29 22:25:53 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
