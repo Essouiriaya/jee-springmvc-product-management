@@ -1,5 +1,6 @@
 package com.example.controller;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,20 +18,21 @@ public class ProduitController {
     @Autowired
     private ProduitMetier services;
 
+    // 📌 Affichage liste
     @GetMapping("/index")
     public String pageIndex(Model model) {
         model.addAttribute("listeProduit", services.getAllProduits());
         return "produits";
     }
 
+    // 📌 Recherche
     @GetMapping("/search")
     public String searchProduct(@RequestParam(required = false) Long idProduit, Model model) {
 
-        List<Produit> liste = new java.util.ArrayList<>();
+        List<Produit> liste = new ArrayList<>();
 
         if (idProduit != null) {
             Produit p = services.getProduitById(idProduit);
-
             if (p != null) {
                 liste.add(p);
             }
@@ -39,22 +41,24 @@ public class ProduitController {
         }
 
         model.addAttribute("listeProduit", liste);
-
         return "produits";
     }
 
+    // 📌 Ajout
     @PostMapping("/add")
     public String addProduit(Produit p) {
         services.addProduit(p);
         return "redirect:/produits/index";
     }
 
+    // 📌 Suppression
     @GetMapping("/delete")
     public String deleteProduit(@RequestParam Long id) {
         services.deleteProduit(id);
         return "redirect:/produits/index";
     }
- 
+
+    // 📌 Charger produit pour modification
     @GetMapping("/edit")
     public String editProduit(@RequestParam Long id, Model model) {
 
@@ -70,6 +74,7 @@ public class ProduitController {
         return "produits";
     }
 
+    // 📌 Update
     @PostMapping("/update")
     public String updateProduit(Produit p) {
         services.updateProduit(p);

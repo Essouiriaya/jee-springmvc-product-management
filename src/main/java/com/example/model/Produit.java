@@ -8,7 +8,8 @@ public class Produit{
 	
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-	private Long idProduit;
+	private Long id;
+	
 	private String nom;
 	private String description;
 	private Double prix;
@@ -22,8 +23,8 @@ public class Produit{
 		this.prix = prix; 
 	} 
 	
-	public Long getIdProduit() { return idProduit; } 
-	public void setIdProduit(Long idProduit) { this.idProduit = idProduit; } 
+	public Long getIdProduit() { return id; } 
+	public void setIdProduit(Long id) { this.id = id; } 
 	
 	public String getNom() { return nom; } 
 	public void setNom(String nom) { this.nom = nom; } 

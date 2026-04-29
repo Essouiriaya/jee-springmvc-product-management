@@ -17,19 +17,16 @@ public class AuthController {
     @Autowired
     private UserMetier services;
 
-    
     @GetMapping("/login")
     public String loginPage() {
-        return "login"; 
+        return "login";
     }
 
-    
     @PostMapping("/login")
-    public String login(
-            @RequestParam String username,
-            @RequestParam String password,
-            HttpSession session,
-            Model model) {
+    public String login(@RequestParam String username,
+                        @RequestParam String password,
+                        HttpSession session,
+                        Model model) {
 
         User user = services.login(username, password);
 
@@ -39,10 +36,10 @@ public class AuthController {
             session.setAttribute("role", user.getRole());
 
             return "redirect:/produits/index";
-        } else {
-            model.addAttribute("error", "Invalid credentials");
-            return "login";
         }
+
+        model.addAttribute("error", "Invalid credentials");
+        return "login";
     }
 
     @GetMapping("/logout")
