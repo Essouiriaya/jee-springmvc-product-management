@@ -385,3 +385,147 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.lang.Thread.run(Thread.java:1583)
 
+2026.04.29 22:35:16 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\hp\eclipseJEE\springmvc-demo' for client Visual Studio Code 1.118.0.
+2026.04.29 22:35:16 INFO  time: initialize in 0.2s
+2026.04.29 22:35:16 INFO  Memory monitor started
+2026.04.29 22:35:19 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.29 22:35:19 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:35:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1
+2026.04.29 22:35:22 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:35:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2
+2026.04.29 22:35:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:35:29 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:35:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 29, 2026 10:35:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:35:53 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:38:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:38:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:38:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:38:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:38:57 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:39:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:39:00 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:39:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:39:00 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:39:01 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+avr. 29, 2026 10:39:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 23
+2026.04.29 22:39:01 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+2026.04.29 22:39:01 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+2026.04.29 22:39:01 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+avr. 29, 2026 10:39:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 29, 2026 10:39:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 26
+2026.04.29 22:39:01 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:39:02 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+2026.04.29 22:39:02 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:39:02 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+avr. 29, 2026 10:39:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 31
+avr. 29, 2026 10:39:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 32
+avr. 29, 2026 10:39:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 33
+avr. 29, 2026 10:39:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 34
+2026.04.29 22:39:02 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:39:02 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+2026.04.29 22:39:03 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+2026.04.29 22:39:04 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:39:04 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+2026.04.29 22:39:05 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+avr. 29, 2026 10:39:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 47
+2026.04.29 22:39:05 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+2026.04.29 22:39:05 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+avr. 29, 2026 10:39:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 49
+2026.04.29 22:39:06 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+2026.04.29 22:39:06 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+2026.04.29 22:39:13 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\services\UserImplMetier.java. Using fallback presentation compiler.
+2026.04.29 22:39:13 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\dao\UserDAO.java. Using fallback presentation compiler.
+avr. 29, 2026 10:39:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.29 22:39:21 INFO  Shutting down server
+2026.04.29 22:39:21 INFO  Memory monitor stopped
+2026.04.29 22:39:21 INFO  shutting down Metals
+2026.04.29 22:39:21 INFO  Exiting server
+2026.04.29 22:39:21 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.04.30 09:01:58 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\hp\eclipseJEE\springmvc-demo' for client Visual Studio Code 1.118.0.
+2026.04.30 09:01:58 INFO  Memory monitor started
+2026.04.30 09:02:01 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.30 09:02:01 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.30 09:02:03 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.30 09:02:07 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.30 09:02:09 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.30 09:02:57 INFO  Shutting down server
+2026.04.30 09:02:57 INFO  Memory monitor stopped
+2026.04.30 09:02:57 INFO  shutting down Metals
+2026.04.30 09:02:57 INFO  Exiting server
+2026.04.30 09:02:57 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.04.30 09:15:53 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\hp\eclipseJEE\springmvc-demo' for client Visual Studio Code 1.118.0.
+2026.04.30 09:15:53 INFO  Memory monitor started
+2026.04.30 09:15:56 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.30 09:15:56 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+avr. 30, 2026 9:15:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2
+2026.04.30 09:15:58 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.30 09:15:58 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+avr. 30, 2026 9:16:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 30, 2026 9:16:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.30 09:16:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.30 09:16:25 WARN  no build target for: C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java
+avr. 30, 2026 9:16:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 12
+2026.04.30 09:16:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+2026.04.30 09:16:25 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+avr. 30, 2026 9:16:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.30 09:16:26 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+avr. 30, 2026 9:16:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 30, 2026 9:16:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14
+avr. 30, 2026 9:16:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 15
+2026.04.30 09:16:26 INFO  no build target found for C:\Users\hp\eclipseJEE\springmvc-demo\src\main\java\com\example\controller\AuthController.java. Using fallback presentation compiler.
+avr. 30, 2026 9:16:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.30 09:16:26 INFO  Shutting down server
+2026.04.30 09:16:26 INFO  Memory monitor stopped
+2026.04.30 09:16:26 INFO  shutting down Metals
+2026.04.30 09:16:26 INFO  Exiting server
